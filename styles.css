@@ -19,14 +19,13 @@
 }
 
 .cart-kaamelott{
-    margin-top: 2em;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 5px;
     border-radius: 10px;
-    display: flex;
-    justify-items: center;
-    align-items: center;
     text-align: center;
 }
 
-.cart-kaamelott p {
-    color:white;
+.cart-kaamelott img {
+        with:50%;
 }
