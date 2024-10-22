@@ -20,13 +20,13 @@
 
 .cart-kaamelott{
     margin-top: 2em;
-    background-color: brown ;
+    border-radius: 10px;
     display: flex;
     justify-items: center;
     align-items: center;
+    text-align: center;
 }
 
 .cart-kaamelott p {
     color:white;
-    text-decoration: dotted;
 }
